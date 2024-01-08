@@ -16,7 +16,8 @@ body{
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
-}.search{
+}
+.search{
     width: 100%;
     display: flex;
     align-content: center;
@@ -72,16 +73,13 @@ body{
     width: 40px;
     margin-right: 10px;
 }
-.humidity, .wind{
-    font-size: 28px;
+.humiditynumber, .wind{
+    font-size: 18px;
     margin-top: -6px;
 }
-
-
-
-
-
-
+.weather {
+    display: none;
+}
 
 
 
